@@ -17,4 +17,5 @@ install pika library-> `pip3 install pika`
 
 # Expected output
 [*] Waiting for messages to exit press ctrl + c
+
 [x] Received b'Hello World!'
