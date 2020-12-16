@@ -16,6 +16,5 @@ install pika library-> `pip3 install pika`
 - `python consumer.py`
 
 # Expected output
-[*] Waiting for messages to exit press ctrl + c
-
+[*] Waiting for messages to exit press ctrl + c 
 [x] Received b'Hello World!'
