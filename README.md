@@ -1,5 +1,5 @@
 # Basic-RabbitMQ-Program
-A basic RabbitMQ program with default exchange in which Producer is producing the message and Consumer is consuming it.
+A basic RabbitMQ program with Default, Fanout and Topic exchange in which Producer is producing the message and Consumer is consuming it.
 
 # To use this
 Do a `git clone`/download the project and perform below steps.
