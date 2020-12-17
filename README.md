@@ -5,7 +5,7 @@ A basic RabbitMQ program with Default, Fanout and Topic exchange in which Produc
 Do a `git clone`/download the project and perform below steps.
 
 # Pre-Requisite
-First you should have python installed on you system.
+First you should have python installed on your system.
 
 install rabbitmq-> `pip3 isntall rabbitmq`
 
